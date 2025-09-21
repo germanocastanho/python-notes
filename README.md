@@ -36,4 +36,4 @@ jupyter-lab <file.ipynb>
 
 # 📜 Free Software
 
-Distributed under the [**GNU GPL v3**](LICENSE), ensuring freedom - as in "free speech" - to use, modify, and redistribute the software, as long as these freedoms are preserved in any derivative versions. By using or contributing, you support the **free software** philosophy and help build an open, community-driven technological environment! ✊
+Distributed under the [**GNU GPL v3**](LICENSE), ensuring freedom to use, modify, and redistribute the software, as long as these freedoms are preserved in any derivative versions. By using or contributing, you support the **free software** philosophy and help build an open, community-driven technological environment! ✊
