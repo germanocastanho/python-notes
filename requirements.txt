@@ -130,8 +130,8 @@ tenacity==9.1.2
 terminado==0.18.1
 tinycss2==1.4.0
 tokenizers==0.22.1
-torch==2.8.0+cpu
-torchvision==0.23.0+cpu
+# torch==2.8.0+cpu
+# torchvision==0.23.0+cpu
 tornado==6.5.2
 tqdm==4.67.1
 traitlets==5.14.3
