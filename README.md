@@ -3,7 +3,7 @@
 This repo is my personal collection of **Python Notes**. Here you will find notebooks with things I find useful, interesting, or tricky while working with Python. These are not formal lessons — just my own references, experiments, and reminders. Feel free to browse, use, or contribute if you find something helpful! 📚
 
 <div align="center">
-  <img style="max-width: 100%; height: auto;" src="assets/images/python.png" alt="Python Snakes" />
+  <img style="max-width: 100%; height: auto;" src="assets/images/python.jpg" alt="Python Snakes" />
 </div>
 
 # 🚀 Main Features
