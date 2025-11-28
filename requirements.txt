@@ -51,6 +51,7 @@ ipywidgets==8.1.7
 isoduration==20.11.0
 jedi==0.19.2
 jinja2==3.1.6
+jiter==0.12.0
 json5==0.12.1
 jsonpatch==1.33
 jsonpointer==3.0.0
@@ -93,6 +94,7 @@ networkx==3.3
 notebook==7.4.7
 notebook-shim==0.2.4
 numpy==2.3.2
+openai==2.8.1
 orjson==3.11.3
 overrides==7.7.0
 packaging==25.0
