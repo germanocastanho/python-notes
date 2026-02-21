@@ -193,3 +193,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Other files to ignore
+assets/books/
+!assets/books/.gitkeep
+assets/lessons/
+!assets/lessons/.gitkeep
+assets/papers/
+!assets/papers/.gitkeep
