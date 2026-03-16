@@ -95,7 +95,7 @@ notebook==7.4.7
 notebook-shim==0.2.4
 numpy==2.3.2
 openai==2.8.1
-orjson==3.11.3
+orjson==3.11.6
 overrides==7.7.0
 packaging==25.0
 pandas==2.3.2
