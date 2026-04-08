@@ -151,7 +151,7 @@ tokenizers==0.22.1
 tornado==6.5.5
 tqdm==4.67.1
 traitlets==5.14.3
-transformers==4.56.2
+transformers==5.0.0rc3
 typer==0.20.0
 types-python-dateutil==2.9.0.20250822
 typing-extensions==4.15.0
